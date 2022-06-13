@@ -16,7 +16,7 @@ Westwood is a community in Los Angeles surrounding UCLA. As the school and grew,
 
 Academics
 ------
-For employers or for anyone who is interested, my academic projects and a CV are linked above. I'm currently in my fourth year studying bioengineering and math at UCLA. I especially enjoy working with biomechanics, biological control systems, and applied numerical methods. I've included some simple but potentially helpful code (MATLAB and Jypeter Notebook). Feel free to use it or improve it!
+For employers or for anyone who is interested, my academic projects and a CV are linked above. I'm currently in my fourth year studying bioengineering and math at UCLA. I especially enjoy working with biomechanics, biological control systems, and applied numerical methods. I've included some simple but potentially helpful code (MATLAB and Jupyter Notebook). Feel free to use it or improve it!
 
 State Beach
 ------
