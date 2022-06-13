@@ -1,22 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Academics"
+    url: /academics/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Apartments"
+    url: /aparments/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "State Beach"
+    url: /state_beach/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Stats"
+    url: /statistics/
