@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Aidan Boyne"
-  avatar           : "profile.png"
+  avatar           : "GHB_prof.jpg"
   bio              : "UCLA Student"
   location         : "Los Angeles, CA"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
