@@ -1,0 +1,16 @@
+14 lines (10 sloc)  194 Bytes
+
+
+---
+layout: archive
+title: "Academics"
+permalink: /academics/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
