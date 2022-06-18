@@ -3,6 +3,8 @@ permalink: /academics
 title: "Academics"
 author_profile: true
 ---
+_Link to download my CV_ [_here_.](https://aidanboyne.github.io/files/Boyne_Resume_22.5.pdf)
+
 
 [MATLAB Code](https://aidanboyne.github.io/publication/matlab_numerical)
 ---
