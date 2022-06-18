@@ -6,18 +6,24 @@ excerpt: 'Simple numerical algorithms implemented in MATLAB'
 
 ---
 Golden Seach - Efficient line search which always converges on minimum in region
-[Download](http://aidanboyne.github.io/files/Golden.m)
+[Download][1]
 
 ---
 Many-Dimensional Newton's Method - Newton's method for n-dimensional search space
-[Download](http://aidanboyne.github.io/files/Newton.m)
+[Download][2]
 
 ---
 Gaussian Quadrature - Definite integral approximation with 2nd and 3rd degree polynomials
-[Download](http://aidanboyne.github.io/files/Gaussian.m)
+[Download][3]
 
 ---
 Bezier Curve - Constructs and plots Bezier curve with given endpoint and guidepoints
-[Download](http://aidanboyne.github.io/files/Bezier.m)
+[Download][4]
 
 ---
+
+
+[1]:{{ http://aidanboyne.github.io }}/download/Golden.m
+[2]:{{ http://aidanboyne.github.io }}/download/Newton.m
+[3]:{{ http://aidanboyne.github.io }}/download/Gaussian.m
+[4]:{{ http://aidanboyne.github.io }}/download/Bezier.m
