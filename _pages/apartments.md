@@ -8,7 +8,7 @@ I spend a lot of time walking around the apartments near UCLA and really appreci
 used it to take these pictures. Although most of them are from Westwood, I threw in a couple of my favorites from the nearby area as well. 
 
 
-![Brentwood House](aidanboyne.github.io/images/apartments/Brent_House1.jpg)
+![Brentwood House](Brent_House1.jpg)
 
 Found this on a run. 
 
