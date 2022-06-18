@@ -84,37 +84,25 @@ author:
   avatar           : "GHB_prof.jpg"
   bio              : "UCLA Student"
   location         : "Los Angeles, CA"
-  employer         :
+  employer         : "ZS Associates"
   pubmed           : 
   googlescholar    : 
   email            : "aidanboyne@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
   flickr           :
   facebook         :
-  foursquare       :
   github           : "aidanboyne"
   google_plus      :
-  keybase          :
   instagram        : "aidanboyne"
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         : "aidanboyne/"
-  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
   youtube          :
-  wikipedia        :
 
 
 # Reading Files
@@ -209,6 +197,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _pages
+  - scope:
+      path: ""
+      type: academics
+    values:
+      layout: single
+      author_profile: true  
   # _teaching
   - scope:
       path: ""
@@ -242,7 +237,7 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
+      author_profile: false
       share: true
 
 # Sass/SCSS
