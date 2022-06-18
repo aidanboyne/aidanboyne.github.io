@@ -19,3 +19,4 @@ Gaussian Quadrature - Definite integral approximation with 2nd and 3rd degree po
 ---
 Bezier Curve - Constructs and plots Bezier curve with given endpoint and guidepoints
 [Download](http://academicpages.github.io/files/Bezier.m)
+---
