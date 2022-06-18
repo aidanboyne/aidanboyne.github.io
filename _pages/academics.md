@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Academics"
-permalink: /academics/
+permalink: /portfolio/
 author_profile: false
 ---
 
