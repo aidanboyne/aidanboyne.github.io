@@ -1,5 +1,5 @@
-%% Parametric Cubic Hermite Interpolation
-%Constructs Cubic Hermite curve given endpoints and guidepoints
+%% Parametric Cubic Bezier Interpolation
+%Constructs Cubic Bezier curve given endpoints and guidepoints
 %Code for Math151A Spring 2022
 %Written by Aidan Boyne
 
