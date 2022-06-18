@@ -9,10 +9,10 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 Golden Seach - Efficient line search which always converges on minimum in region
-[Download paper here](http://academicpages.github.io/files/Golden.m)
+[Download](http://academicpages.github.io/files/Golden.m)
 Many-Dimensional Newton's Method - Newton's method for n-dimensional search space
-[Download paper here](http://academicpages.github.io/files/Newton.m)
+[Download](http://academicpages.github.io/files/Newton.m)
 Gaussian Quadrature - Definite integral approximation with 2nd and 3rd degree polynomials
-[Download paper here](http://academicpages.github.io/files/Gaussian.m)
+[Download](http://academicpages.github.io/files/Gaussian.m)
 Bezier Curve - Constructs and plots Bezier curve with given endpoint and guidepoints
-[Download paper here](http://academicpages.github.io/files/Bezier.m)
+[Download](http://academicpages.github.io/files/Bezier.m)
