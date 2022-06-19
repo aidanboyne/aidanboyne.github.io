@@ -7,7 +7,10 @@ main:
     url: /apartments/    
 
   - title: "State Beach"
-    url: /state_beach/    
+    url: /state_beach/
+    
+  - title: "Writing"
+    url: /writing/
     
   - title: "Stats"
     url: /statistics/
