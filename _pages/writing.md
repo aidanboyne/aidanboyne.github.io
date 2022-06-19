@@ -3,8 +3,7 @@ permalink: /writing/
 title: "Writing"
 author_profile: true
 redirect_from: 
-  - /haiku/
-type-size-6  
+  - /haiku/ 
 ---
 
 
