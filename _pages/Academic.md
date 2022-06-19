@@ -41,7 +41,4 @@ Translational Regulation
 ---
 
 Under Dr. Guillaume Chanfreau, I investigate a particular type of intronic RNA known as small nucleolar RNAs (snoRNAs) at the UCLA Department of Biochemistry . In particular, I study yeast cell lines with modified snoRNAs and how they deal with metal stress and glucose starvation to uncover targets of and biochemical mechanisms behind snoRNA mediated gene regulation and rRNA modification. I am also optimizing the algorithms and
-user interface of [COMPASS][7], a program developed by Dr. Kevin Roy during his time in the lab, to identify non-canonical splice sites in intronic DNA. [Lab Website][8]
-
-[7]:{{ https://github.com/aidanboyne/COMPASS }}
-[8]:{{ http://www.chem.ucla.edu/dept/Faculty/chanfreau/index.html }}
+user interface of [COMPASS](https://github.com/aidanboyne/COMPASS)., a program developed by Dr. Kevin Roy during his time in the lab, to identify non-canonical splice sites in intronic DNA. [Lab Website](http://www.chem.ucla.edu/dept/Faculty/chanfreau/index.html).
