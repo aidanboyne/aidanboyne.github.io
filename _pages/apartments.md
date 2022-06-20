@@ -9,6 +9,7 @@ used it to take these pictures. Although most of them are from Westwood, I threw
 
 
 ![Brentwood House](https://github.com/aidanboyne/aidanboyne.github.io/blob/a4f169fc101dc22343892a0222f4914cbb81b788/images/apartments/Brentwood1.PNG)
+![Brentwood House_s](https://github.com/aidanboyne/aidanboyne.github.io/blob/841b38fdfe5b1c3c1cfd269812d31753d1c51725/images/apartments/Brentwood1_small.PNG)
 
 Found this on a run. 
 
