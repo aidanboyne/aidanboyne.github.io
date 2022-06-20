@@ -32,7 +32,7 @@ An (incomplete) list of some MATLAB code I've written for numerical analysis and
 
 Biomechanics Reports
 ---
-While studying in Sweden, I wrote the following reprots detailing the biomechanical properties of rat bone and tendon. I really enjoyed the work and am proud of the results, viewable [_here (bone)_][5], and [_here (tendon)_][6]. All of the data processing and visualization was handeled using numpy and matplotlib libraries in python. The simulations were run with ANSYS Mechanical APDL. 
+While studying in Sweden, I wrote the following reprots detailing the biomechanical properties of rat bone and tendon. I really enjoyed the work and am proud of the results, viewable [_here (bone)_][5], and [_here (tendon)_][6]. All of the data processing and visualization was handled using numpy and matplotlib libraries in python. The simulations were run with ANSYS Mechanical APDL. 
 
 [5]:{{ http://aidanboyne.github.io }}/files/Bone_Lab_AidanBoyne.pdf
 [6]:{{ http://aidanboyne.github.io }}/files/Boyne_Aidan_tendonlab.pdf
