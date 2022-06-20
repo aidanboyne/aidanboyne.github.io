@@ -33,22 +33,6 @@ She has dreams about <br>
 Acid rain and climate change <br>
 The freedom of sleep
 
-Quiero un amo <br>
-Árboles, Canciones <br>
-Alguien conmigo
-
-Fingerpicking ninths <br>
-Up and across really cold <br>
-Gum makes me nauseous
-
-No time for small talk <br>
-Big moves, big money, real thoughts <br>
-Tick tock goes the clock
-
-Badminton Racquets <br>
-Broken strings and a torn net <br>
-Serve it over… Let.
-
 _I wrote these four waiting for customers to leave long after the bar had already closed_
 
 1. String lights hang, heavy <br>
@@ -66,3 +50,19 @@ _I wrote these four waiting for customers to leave long after the bar had alread
 4. Grey hair falling down <br>
    Forgotten and swept away, <br>
    It’s bound to happen
+
+Quiero un amo <br>
+Árboles, Canciones <br>
+Alguien conmigo
+
+Fingerpicking ninths <br>
+Up and across really cold <br>
+Gum makes me nauseous
+
+No time for small talk <br>
+Big moves, big money, real thoughts <br>
+Tick tock goes the clock
+
+Badminton Racquets <br>
+Broken strings and a torn net <br>
+Serve it over… Let.
