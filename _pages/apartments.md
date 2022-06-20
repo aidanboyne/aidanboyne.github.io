@@ -12,10 +12,13 @@ used it to take these pictures. Although most of them are from Westwood, I threw
 
 Found this on a run. 
 
+
 ![SB Parking](https://imgur.com/9zcN6d6.jpg)
 
 Was visiting some friends in Santa Barbara and saw this rip in a wall in a parking garage.
 
+
 ![405 Wall](https://imgur.com/St6J01v.jpg)
 
 The wall holding up part of the 405 near Sunset Blvd. 
+
