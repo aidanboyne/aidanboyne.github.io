@@ -20,7 +20,7 @@ For employers or for anyone who is interested, my academic projects and a CV are
 
 State Beach
 ------
-A band formed by Zach Taylor. I play guitar and keys. Linnea Jackson sings and plays bass, John Gallagher is on guitar, Matthew ___ plays keys, and Zach sings and plays guitar. We might be playing soon! Check out the main page linked at the top.
+A band formed by Zach Taylor. I play guitar and keys. Linnea Jackson sings and plays bass, John Gallagher is on guitar, Matthew McGrath plays keys, and Zach sings and plays guitar. We might be playing soon! Check out the main page linked at the top.
 
 Statistics of Sailing (and other things)
 ------
