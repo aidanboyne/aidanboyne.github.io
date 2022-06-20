@@ -8,7 +8,7 @@ I spend a lot of time walking around the apartments near UCLA and really appreci
 used it to take these pictures. Although most of them are from Westwood, I threw in a couple of my favorites from the nearby area as well. 
 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="dKOgMli"><a href="https://imgur.com/dKOgMli">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Brentwood House](https://imgur.com/dKOgMli.jpg)
 
 Found this on a run. 
 
