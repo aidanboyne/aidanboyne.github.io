@@ -10,13 +10,14 @@ redirect_from:
 
 Welcome! This is a website where I write and post about interesting stuff, academic and otherwise. If you have any questions or would like to get in touch, send me an email at aidanboyne@gmail.com. 
 
+Academics
+------
+For employers or for anyone who is interested, my academic projects and a CV are linked above. I'm currently in my fourth year studying bioengineering and math at UCLA. I especially enjoy working with biomechanics, biological control systems, and applied numerical methods. I've included some simple but potentially helpful code (MATLAB and Jupyter Notebook). Feel free to use it or improve it!
+
 Apartments of Westwood
 ------
 Westwood is a community in Los Angeles surrounding UCLA. As the school and grew, apartments with all sorts of architectual styles were built to accomodate students, faculty, and other members of the community. I take pictures of my favorite apartments and post them here.
 
-Academics
-------
-For employers or for anyone who is interested, my academic projects and a CV are linked above. I'm currently in my fourth year studying bioengineering and math at UCLA. I especially enjoy working with biomechanics, biological control systems, and applied numerical methods. I've included some simple but potentially helpful code (MATLAB and Jupyter Notebook). Feel free to use it or improve it!
 
 State Beach
 ------
