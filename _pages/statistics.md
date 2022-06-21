@@ -7,6 +7,5 @@ redirect_from:
   - /stats/
 ---
 
-Coming soon :)
-
-Still trying to get jupyter notebook to cooperate with the website.
+Updates Coming soon :)
+-Resolving some display issues with the integration of Jupyter notebooks (where the data crunching/graphing takes place) and the website. 
