@@ -8,4 +8,5 @@ redirect_from:
 ---
 
 Updates Coming soon :)
+
 -Resolving some display issues with the integration of Jupyter notebooks (where the data crunching/graphing takes place) and the website. 
