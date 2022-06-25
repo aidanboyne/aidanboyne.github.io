@@ -7,7 +7,7 @@ author_profile: false
 I spend a lot of time walking around the apartments near UCLA and really appreciate their design. My mom collects old cameras so I asked her to borrow one and used it to take these pictures. Although most of them are from Westwood, I threw in a couple of my favorites from the nearby area as well. 
 
 
-Also check out [photos from my studies in Sweden!](aidanboyne.github.io/_pages/apartments/sweden/)
+Also check out [photos from my studies in Sweden!](sweden/)
 
 
 ![Brentwood House](https://imgur.com/dKOgMli.jpg)
