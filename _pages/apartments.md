@@ -12,7 +12,7 @@ Also check out [photos from my studies in Sweden!](sweden/)
 
 ![Sunset apt hill](https://imgur.com/fFB4GrA.jpg)
 
-The top of a steep hill. Apartment on the right is called Midvale Manor.
+The top of a steep hill. Apartment immediatley on the left is called Midvale Manor.
 <br>
 
 
