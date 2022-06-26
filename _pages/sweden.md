@@ -20,3 +20,15 @@ From a nice design museum in Malmö featuring my friend Ella.
 ![Budapest_slice](https://imgur.com/I4jDKR6.jpg)
 
 A nice view from the escalator in Budapest.
+<br>
+
+![Turning Torso](https://imgur.com/lDSX7Ov.jpg)
+
+Famous tower! There is a nice park with speakers buried in some grassy knolls nearby.
+<br>
+
+![Sick!](https://imgur.com/tmuq2vC.jpg)
+
+This graffiti says sick, reminding me on my daily walk during my quarintine at Hotel Concordia in Lund.
+
+
