@@ -10,6 +10,8 @@ Regatta Results
 ---
 
 ![Stats 2009-22](https://imgur.com/pCLD8oj.png)
+
+
 Summary of the UCLA sailing team's performance over the past 13 years. All data is taken from [scores.collegesailing.org](https://scores.collegesailing.org/) and is updated as of Spring 2022.
 
 
