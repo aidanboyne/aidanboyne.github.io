@@ -22,6 +22,11 @@ The courtyard of this apartment has a nice pool.
 <br>
 
 
+![San Diego Sunset](https://imgur.com/a/XNjMqdX)
+
+Where I live for the summer. I park on this road.
+
+
 
 ![Brentwood House](https://imgur.com/dKOgMli.jpg)
 
