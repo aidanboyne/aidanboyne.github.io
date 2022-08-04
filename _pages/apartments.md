@@ -25,6 +25,7 @@ The courtyard of this apartment has a nice pool.
 ![San Diego Sunset](https://imgur.com/a/XNjMqdX.jpg)
 
 Where I live for the summer. I park on this road.
+<br>
 
 
 
