@@ -21,11 +21,11 @@ Westwood is a community in Los Angeles surrounding UCLA. As the school and grew,
 
 State Beach
 ------
-A band formed by Zach Taylor. I play guitar and keys. Linnea Jackson sings and plays bass, John Gallagher is on guitar, Matthew McGrath plays keys, and Zach sings and plays guitar. We might be playing soon! Check out the main page linked at the top.
+A band formed by Zach Taylor. I play guitar and keys. Linnea Jackson sings and plays bass, John Gallagher is on guitar, Matthew McGrath plays keys, and Zach sings and plays guitar. We might be playing soon! 
 
 Statistics of Sailing (and other things)
 ------
-As the unoffical data analytics chair of sailing, I do some unofficial data analysis. The results are here along with any other things I've done resulting in nice looking graphs!
+As the unoffical data analytics chair of sailing, I do some unofficial data analysis. The results are here along with some of the other data related projects I've done for fun like _Flavors of Allrecipies_ and _Simple SPARQL_.
 
 Writing
 ------
