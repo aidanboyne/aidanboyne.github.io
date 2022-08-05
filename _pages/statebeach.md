@@ -9,7 +9,7 @@ redirect_from:
 
 ![People (minus matt)](https://imgur.com/hJ5FvC9.jpg)
 
-_Left to right:_ Zach, John, Linnea, Aidan (Matt was in San Diego).
+_Left to right:_ Zach, John, Linnea, Aidan. Matt was in San Diego :(
 
 Upcoming Gigs
 ---
@@ -21,7 +21,7 @@ Other Music
 
 <div>
   <audio controls>
-    <source src="files/really_down.mp3" type="audio/mpeg">
+    <source src="http://aidanboyne.github.io/files/really_down.mp3" type="audio/mpeg">
   </audio>
 </div>
 
