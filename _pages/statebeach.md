@@ -7,8 +7,6 @@ redirect_from:
   - /state beach/
 ---
 
-{% include base_path %}
-
 ![People (minus matt)](https://imgur.com/hJ5FvC9.jpg)
 
 _Left to right:_ Zach, John, Linnea, Aidan (Matt was in San Diego).
