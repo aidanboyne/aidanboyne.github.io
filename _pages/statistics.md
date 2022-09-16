@@ -21,3 +21,18 @@ Summary of the UCLA sailing team's performance over the past 13 years. All data 
 
 
 See jupyter notebook for details. (_Uploading soon_)
+
+All Recipes Ingredient Analysis
+---
+
+[This Jupyter Notebook][1] contains the script that was used to scrape and parse the website All Recipes to pinpoint interesting, tasty, and underutilized ingredient combinations. To run the notebook on your own (which I recommend so that you can explore the interactive plot which is generated), you will need to download [this CSV file] and specify its path inside the notebook code. Try changing `page_start` and `page_end` to a small range if you want the notebook to run more quickly.
+
+#### Sample results
+![Sample All Recipes Scraper Results](https://imgur.com/a/NmeJdYP.png)
+
+You can also use the [this API][3] to automatically format recipies into an easy to read format that omits all the fluff (stories, external links, ads, etc.). (_uploading soon_)
+
+[1]:{{ http://aidanboyne.github.io }}/files/Main.ipynb
+[2]:{{ http://aidanboyne.github.io }}/files/ARScrape_Ingredients.csv
+[3]:{{ http://aidanboyne.github.io }}/files/no_file_available
+
