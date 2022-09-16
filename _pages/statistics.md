@@ -1,6 +1,6 @@
 ---
 permalink: /statistics/
-title: "Statistics"
+title: "Data"
 author_profile: true
 redirect_from: 
   - /sailing/
