@@ -66,3 +66,9 @@ Tick tock goes the clock
 Badminton Racquets <br>
 Broken strings and a torn net <br>
 Serve it over… Let.
+
+Other Stuff
+---
+Starting the golf cart was an art. You had to hit the gas just right after pushing it down the hill to get the engine going. Driving it past the pro shop and parked cars long after dark. Past the garden and the graveyard to the giant dumpsters. We would stand by the plywood floorboard covering the pothole that turned into a huge puddle when it rained. Throwing the trash bags. My bags would be filled with glass from the bar. So heavy that the bag would tear and shattered glass would pepper the metal dumpster walls. Cooper or Connor would try to throw it from too far and we’d have to pick up all the garbage that spilled out onto the ground...
+
+
