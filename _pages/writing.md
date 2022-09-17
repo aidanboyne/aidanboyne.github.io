@@ -59,10 +59,6 @@ Fingerpicking ninths <br>
 Up and across really cold <br>
 Gum makes me nauseous
 
-No time for small talk <br>
-Big moves, big money, real thoughts <br>
-Tick tock goes the clock
-
 Badminton Racquets <br>
 Broken strings and a torn net <br>
 Serve it over… Let.
