@@ -30,6 +30,11 @@ An (incomplete) list of some MATLAB code I've written for numerical analysis and
 [3]:{{ http://aidanboyne.github.io }}/download/Gaussian.m
 [4]:{{ http://aidanboyne.github.io }}/download/Bezier.m
 
+Computational Modeling of Thyroid Disease States
+---
+
+Under Dr. Joe Distefano III, I am extending thyroid models to account for antibody interactions in Graves' disease and Hashimoto's disease in the hopes of providing an accurate predictive tool for research and clinical applications. 
+
 Biomechanics Reports
 ---
 While studying in Sweden, I wrote the following reprots detailing the biomechanical properties of rat bone and tendon. I really enjoyed the work and am proud of the results, viewable [_here (bone)_][5], and [_here (tendon)_][6]. All of the data processing and visualization was handled using numpy and matplotlib libraries in python. The simulations were run with ANSYS Mechanical APDL. 
@@ -40,5 +45,6 @@ While studying in Sweden, I wrote the following reprots detailing the biomechani
 Translational Regulation
 ---
 
-Under Dr. Guillaume Chanfreau, I investigate a particular type of intronic RNA known as small nucleolar RNAs (snoRNAs) at the UCLA Department of Biochemistry . In particular, I study yeast cell lines with modified snoRNAs and how they deal with metal stress and glucose starvation to uncover targets of and biochemical mechanisms behind snoRNA mediated gene regulation and rRNA modification. I am also optimizing the algorithms and
+Under Dr. Guillaume Chanfreau, I investigated a particular type of intronic RNA known as small nucleolar RNAs (snoRNAs) at the UCLA Department of Biochemistry . In particular, I studied yeast cell lines with modified snoRNAs and how they deal with metal stress and glucose starvation to uncover targets of and biochemical mechanisms behind snoRNA mediated gene regulation and rRNA modification. I also contributed to optimizing the algorithms and
 user interface of [COMPASS](https://github.com/aidanboyne/COMPASS)., a program developed by Dr. Kevin Roy during his time in the lab, to identify non-canonical splice sites in intronic DNA. [Lab Website](http://www.chem.ucla.edu/dept/Faculty/chanfreau/index.html).
+
