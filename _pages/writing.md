@@ -68,3 +68,9 @@ Other Stuff
 Starting the golf cart was an art. You had to hit the gas just right after pushing it down the hill to get the engine going. Driving it past the pro shop and parked cars long after dark. Past the garden and the graveyard to the giant dumpsters. We would stand by the plywood floorboard covering the pothole that turned into a huge puddle when it rained. Throwing the trash bags. My bags would be filled with glass from the bar. So heavy that the bag would tear and shattered glass would pepper the metal dumpster walls. Cooper or Connor would try to throw it from too far and we’d have to pick up all the garbage that spilled out onto the ground...
 
 
+Playing tennis without a net. 
+You can’t ever be sure if the incredible shot you hit would have actually gone over. If you played without a net for too long, you might start building up bad habits - habits that could come back to bite you if things went back to normal. 
+Some people haven’t ever played with a net, and don’t understand why others can’t hit it over every time. Other people play with a net that’s 6 feet high. They either develop quite a good forehand or quit the game altogether…
+
+
+
