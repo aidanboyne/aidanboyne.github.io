@@ -6,6 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+redirect_to:
+  - https://aidanboyne.github.io/BCM/
 ---
 
 Welcome! This is a website where I write and post about interesting stuff, academic and otherwise. If you have any questions or would like to get in touch, send me an email at aidanboyne@gmail.com. 
